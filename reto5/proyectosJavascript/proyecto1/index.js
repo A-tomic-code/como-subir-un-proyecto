@@ -1,3 +1,6 @@
+function sum(op1, op2, op3) {
+    return op1 + op2 + op3;
+}
 function subs(op1, op2 = 0) {
     return op1 - op2;
 }
