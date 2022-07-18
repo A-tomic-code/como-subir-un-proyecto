@@ -1,0 +1,1 @@
+se ha subido todo menos las imagenes
